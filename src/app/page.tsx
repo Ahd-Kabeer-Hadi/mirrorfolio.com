@@ -16,7 +16,7 @@ export default function Home() {
       </div>
       <div className="mb-32 grid text-center lg:mb-0 lg:grid-cols-2 align-middle">
       <div className="relative flex place-items-center before:absolute before:h-[300px] before:w-[480px] before:-translate-x-1/2 slide-in-fwd-left">
-      <p className=" flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 p-6 lg:dark:bg-zinc-800/30 max-w-[40ch]">
+      <p className=" flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 p-6 lg:dark:bg-zinc-800/30 max-w-40ch">
           
           Welcome, dear traveler! 😄 I am Mr. Mirror, <br /> the gatekeeper and guide of this extraordinary realm. 🪄 As you step into Mirrorfolio, you'll be enchanted by the captivating world created by our brilliant mind, Kabeer. Currently, he is infusing this realm with mesmerizing elements of React magic, where code and creativity intertwine in an ethereal dance of fantasy, adding more power and shine to its wonders. 💫 While we work on this transformation, you can still connect with Kabeer's creative genius through Figma, Bento.me, Instagram, and more. Discover sneak peeks of his enchanting projects specially curated for your delight. 🎨 Stay tuned for the grand unveiling of this magical experience! 
           </p>
