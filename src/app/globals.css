@@ -39,7 +39,7 @@ body {
 .logo-font{
   color: #231973;
 }
-.max-w-\[40ch\] {
+.max-w-40ch {
   max-width: 40ch;
 }
 .p-6 {
