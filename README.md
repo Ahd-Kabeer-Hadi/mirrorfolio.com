@@ -1,2 +1,2 @@
-# mirrorfolio
-Mirrorfolio - Personal Portfolio Website with React and Next.js
+# Mirrorfolio - Personal Portfolio Website with React and Next.js
+
